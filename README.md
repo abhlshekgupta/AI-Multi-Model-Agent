@@ -5,9 +5,10 @@ A **multi-modal AI agent** capable of processing vision, audio, text, and contro
 
 
 ---
-<img width="1254" height="901" alt="Screenshot 2025-11-22 175608" src="https://github.com/user-attachments/assets/57ff3508-67b8-4842-9450-0547128ef018" />
 
-<img width="1238" height="753" alt="Screenshot 2025-11-22 175620" src="https://github.com/user-attachments/assets/2d3b9f15-8d32-44f4-82bd-1cb1284f22ba" />
+<img width="1362" height="829" alt="Screenshot 2026-07-16 215125" src="https://github.com/user-attachments/assets/88da171e-e76a-45ea-9785-4824bdba6b49" />
+<img width="1319" height="831" alt="Screenshot 2026-07-16 215141" src="https://github.com/user-attachments/assets/8bc9fd4b-f93a-42f6-9c58-73268cd5f227" />
+
 
 ---
 
